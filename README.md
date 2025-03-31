@@ -129,9 +129,3 @@ I’d love to hear your feedback or ideas for improving this project! Feel free 
 	•	GitHub: JoNoubs
 
 If you’re interested in ethical tech, data science, or AI projects, let’s connect — I’m always up for collaboration!
-
----
-
-✅ You can now copy and paste this into your `README.md` file on GitHub!
-
-Let me know if you want a French version or want to add a license badge, GitHub Actions CI, or anything else.
