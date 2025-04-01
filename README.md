@@ -107,24 +107,6 @@ The project includes unit tests to verify the game logic. To run the tests:
 
 The tests cover key functionalities like making moves, checking wins, and detecting draws.
 
-## 🚀 Deployment
-The app can be deployed to Streamlit Cloud for easy sharing:
-
-1. **Push to GitHub**:
-   - Ensure your repository is public or private (depending on your Streamlit Cloud plan).
-   - Push the project to GitHub:
-     ```bash
-     git add .
-     git commit -m "Initial commit"
-     git push origin main
-     ```
-
-2. **Deploy on Streamlit Cloud**:
-   - Go to [Streamlit Cloud](https://streamlit.io/cloud) and sign in with your GitHub account.
-   - Click "New app" and select your `tic-tac-toe-streamlit` repository.
-   - Set the main file to `app.py` and click "Deploy".
-   - Once deployed, you’ll get a public URL to share your app (e.g., `https://your-app-name.streamlit.app`).
-
 ## 📫 Get in Touch
 I’d love to hear your feedback or ideas for improving this project! Feel free to reach out:
 - **LinkedIn**: [Johanna Grace Fokui Noubi](https://linkedin.com/in/johanna-grace-fokui-noubi-18006022b/)
