@@ -3,15 +3,15 @@
 
 Welcome to my **Tic-Tac-Toe** game built with Streamlit! This project is an interactive web application where you can play Tic-Tac-Toe against another player or an AI opponent. I created this project to practice my Python and Streamlit skills while exploring game logic, AI, and user interface design. It’s a fun and simple game that shows how technology can bring classic games to life in a modern way!
 
-## 🌟 Overview
+## Overview
 This Tic-Tac-Toe game allows players to take turns on a customizable board, with options to play against another player or an AI powered by the minimax algorithm. The board size can be adjusted (from 3x3 to 6x6), and the game includes features like move history and score tracking. The app is built using Streamlit, making it easy to play in your browser.
 
 I focused on making the game user-friendly and privacy-friendly, ensuring no data is collected and the game state is stored locally on your device.
 
-## 📸 Demo
+## Demo
 ![Tic-Tac-Toe Game](Screenshot.png)
 
-## 🎮 Features
+## Features
 - **Customizable Board Size**: Adjust the board size (from 3x3 to 6x6) using sliders.
 - **Play Modes**:
   - Two-player mode: Players take turns as X (❌) and O (⭕) on the same device.
@@ -27,7 +27,7 @@ I focused on making the game user-friendly and privacy-friendly, ensuring no dat
 - **Status Updates**: Shows whose turn it is, announces the winner, or declares a draw with colorful messages.
 - **Privacy-Friendly**: No data is collected; game state is stored locally on your device.
 
-## 🛠️ Installation
+## Installation
 To run this Tic-Tac-Toe game on your computer, follow these steps:
 
 1. **Clone the Repository**:
@@ -55,7 +55,7 @@ To run this Tic-Tac-Toe game on your computer, follow these steps:
    ```
    This will open the game in your default web browser (usually at `http://localhost:8501`).
 
-## 🎲 Usage
+## Usage
 1. **Start the Game**:
    - Open the app in your browser after running the command above.
    - Enter the names for Player 1 (X) and Player 2 (O), or choose to play against the AI.
@@ -69,17 +69,17 @@ To run this Tic-Tac-Toe game on your computer, follow these steps:
    - The app will show whose turn it is at the bottom of the board.
 
 3. **Check the Result**:
-   - If a player wins, a green message will announce the winner (e.g., “🎉 Player X wins!”).
+   - If a player wins, a green message will announce the winner (🎉 Player X wins!).
    - If the board is full with no winner, a yellow message will say “🤝 It’s a draw!”.
 
 4. **View Move History and Scores**:
-   - Check the sidebar to see the history of moves (e.g., “Move 1: Player X at (1,2)”).
+   - Check the sidebar to see the history of moves (Move 1: Player X at (1,2)).
    - The sidebar also shows the scores for X, O, and draws over multiple games.
 
 5. **Start a New Game**:
    - Click the “🔄 New Game” button to return to the configuration screen and start a new game.
 
-## 📂 Project Structure
+## Project Structure
 ```
 tic-tac-toe-streamlit/
 │
@@ -92,7 +92,7 @@ tic-tac-toe-streamlit/
 └── .gitignore          # Git ignore file to exclude unnecessary files
 ```
 
-## 🧪 Testing
+## Testing
 The project includes unit tests to verify the game logic. To run the tests:
 
 1. **Install Testing Dependencies**:
@@ -107,7 +107,7 @@ The project includes unit tests to verify the game logic. To run the tests:
 
 The tests cover key functionalities like making moves, checking wins, and detecting draws.
 
-## 📫 Get in Touch
+## Get in Touch
 I’d love to hear your feedback or ideas for improving this project! Feel free to reach out:
 - **LinkedIn**: [Johanna Grace Fokui Noubi](https://linkedin.com/in/johanna-grace-fokui-noubi-18006022b/)
 
